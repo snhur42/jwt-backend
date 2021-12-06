@@ -1,0 +1,48 @@
+{
+  "properties": [
+    {
+      "name": "auth.jwt.secret",
+      "type": "java.lang.String",
+      "description": "Description for auth.jwt.secret."
+    },
+    {
+      "name": "auth.jwt.expiration",
+      "type": "java.lang.String",
+      "description": "Description for auth.jwt.expiration."
+    },
+    {
+      "name": "auth.jwt.noJwtTokenName",
+      "type": "java.lang.String",
+      "description": "Description for auth.jwt.noJwtTokenName."
+    },
+    {
+      "name": "auth.header",
+      "type": "java.lang.String",
+      "description": "Description for auth.header."
+    },
+    {
+      "name": "auth.jwt.secret.access.token",
+      "type": "java.lang.String",
+      "description": "Description for auth.jwt.secret.access.token."
+    },
+    {
+      "name": "auth.jwt.secret.refresh.token",
+      "type": "java.lang.String",
+      "description": "Description for auth.jwt.secret.refresh.token."
+    },
+    {
+      "name": "auth.jwt.expiration.access.token",
+      "type": "java.lang.String",
+      "description": "Description for auth.jwt.expiration.access.token."
+    },
+    {
+      "name": "auth.jwt.expiration.refresh.token",
+      "type": "java.lang.String",
+      "description": "Description for auth.jwt.expiration.refresh.token."
+    },
+    {
+      "name": "auth.string",
+      "type": "java.lang.String",
+      "description": "Description for auth.string."
+    }
+  ] }
